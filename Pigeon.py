@@ -1,3 +1,6 @@
 class pigeon:
 	def __init__(self, name)
-		self.name = Chyna"
+		self.name = "Chyna"
+
+	def send_message(self, message)
+		
