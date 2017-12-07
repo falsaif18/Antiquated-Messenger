@@ -13,7 +13,7 @@ class pigeon:
 
 	def send_message(self, message)
 		self.message = str(input('What would you like to send? '))
-		print(message) 
+		print(self.message) 
 
 pigeon()
 		
